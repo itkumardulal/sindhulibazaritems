@@ -1,0 +1,21 @@
+new product
+Buff sekuwa 1 plate Rs.295
+Buff sekuwa 1/2 kg Rs.550
+Buff sekuwa 1 kg Rs.1000
+
+Pork sekuwa 1 plate Rs.300
+Pork Sekuwa 1/2 kg Rs.600
+Pork sekuwa 1 kg 1000
+
+Chicken Sekuwa 1 plate Rs.325
+Chicken Sekuwa 1/2kg Rs.600
+Chicken sekuwa 1kg Rs.1100
+
+Mutton sekuwa 1 plate Rs.450
+Mutton sekuwa 1/2 kg Rs.1200
+Mutton sekuwa 1kg Rs.2000
+
+Chicken Burger Rs.195
+Veg Burger Rs.145
+Cheese burger Rs.245
+Ham burger Rs.185
